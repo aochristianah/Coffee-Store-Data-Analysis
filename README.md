@@ -26,5 +26,6 @@ The BrewVista Store wants analyze and visualize sales performance over time. So 
 - Merged all pivot tables into one dashboard and apply slicer for interactivity
 
   ## Dashboard
+
   <img width="1826" height="798" alt="BrewVista Sales Dashboard screenshot" src="https://github.com/user-attachments/assets/43d67f8d-cc10-428b-8394-83aa772b74fb" />
 
