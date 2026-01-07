@@ -29,3 +29,15 @@ The BrewVista Store wants analyze and visualize sales performance over time. So 
 
   <img width="1826" height="798" alt="BrewVista Sales Dashboard screenshot" src="https://github.com/user-attachments/assets/43d67f8d-cc10-428b-8394-83aa772b74fb" />
 
+  ## Project Insight
+  - Sales flunctuate month-to-month, which indicate seasonal demand
+  - Certain years show stronge performance and this suggest growth and improved sales strategies
+  - The coffee roast type and package size clearly influenced buying behavior
+  - All four coffee types contribute to revenue, but: some types show higher volatility, which indicate changing customer preferences
+  - United State generated the highest revenue which makes it the strongest market by a wide margin
+  - Ireland and the UK contribute smaller revenue but steady sales
+  - Retention and Personlized offers should be prioritized for top customers
+  - Customers with loyalty cards show higher purchase frequency and greater total spend. This shows that the loyalty program is a valuable sales driver
+
+  ## Recommendations
+  - 
