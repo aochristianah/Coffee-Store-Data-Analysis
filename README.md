@@ -47,4 +47,4 @@ The BrewVista Store wants to analyze and visualize sales performance over time. 
 - Adjust production and distribution planning based on seasonal sales pattern.
 
 ## Conclusion
-- To improve the sales of BrewV 
+To improve the sales of BrewVista Store, a strategic marketing plan focused on the strongest market (United States) should be implemented. This location has key consumer segment, as they often make significant purchase. 
